@@ -1,0 +1,38 @@
+_repo: Souvenirs-et-correspondance-tir-s-des-papiers-de-Mme-R-camier--2-2-_26352
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Récamier, Jeanne Françoise Julie Adélaïde Bernard
+    alias: Recamier, Jeanne Francoise Julie Adelaide Bernard
+    birthdate: 1777
+    deathdate: 1849
+    gutenberg_agent_id: '31310'
+    url: http://www.gutenberg.org/2009/agents/31310
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Juliette_R%C3%A9camier
+    - http://en.wikipedia.org/wiki/Jeanne_Fran%C3%A7oise_Julie_Ad%C3%A9la%C3%AFde_R%C3%A9camier
+  editor:
+    agent_name: Lenormant, Amélie Cyvoct
+    alias: Lenormant, Amelie Cyvoct
+    deathdate: 1893
+    gutenberg_agent_id: '31309'
+    url: http://www.gutenberg.org/2009/agents/31309
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2008-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26352'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Récamier, Jeanne Françoise Julie Adélaïde Bernard, 1777-1849 -- Correspondance'
+- !lcsh 'Women intellectuals -- France -- Correspondence'
+- !lcc 'DC'
+title: Souvenirs et correspondance tirés des papiers de Mme Récamier (2/2)
+url: http://www.gutenberg.org/ebooks/26352
